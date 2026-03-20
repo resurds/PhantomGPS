@@ -1,6 +1,3 @@
-# PhantomGPS
-An IOS gps spoofer with walking feature built using python
-
 # PhantomGPS 🛰️
 ### iOS USB Location Spoofer for Windows 11
 
